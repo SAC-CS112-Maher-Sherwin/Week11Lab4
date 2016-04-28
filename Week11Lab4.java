@@ -4,7 +4,7 @@ public class Week11Lab4 {
 
     public static void main(String[] args) {
 
-        System.out.println(Dice.OneThrow(1));
+        System.out.println(Dice.OneThrow());
         
     }
     
